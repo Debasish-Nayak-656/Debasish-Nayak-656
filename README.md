@@ -11,8 +11,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasish-nayak-dn556/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dn193951@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Debasish-Nayak-556)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debasishayush2580@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Debasish-Nayak-656)
 ![Profile Views](https://komarev.com/ghpvc/?username=Debasish-Nayak-556&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -107,12 +107,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Debasish-Nayak-556&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=00ff41" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debasish-Nayak-556&theme=chartreuse-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Debasish-Nayak-656&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=00ff41" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debasish-Nayak-656&theme=chartreuse-dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasish-Nayak-556&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasish-Nayak-656&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
 </div>
 
 ---
@@ -120,7 +120,7 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasish-Nayak-556&theme=react&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff&custom_title=Debasish's%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debasish-Nayak-656&theme=react&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff&custom_title=Debasish's%20Contribution%20Graph" width="95%"/>
 </div>
 
 ---
@@ -131,7 +131,7 @@
 
 
 ### 💚 Night Green (Hacker Mode)
-<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-green.svg" alt="Night Green" width="90%" />
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/3d-output/profile-night-green.svg" alt="Night Green" width="90%" />
 
 
 </div>
@@ -143,10 +143,10 @@
 
 | 📦 Repository | 📝 Description | 🛠️ Tech Stack |
 |:---|:---|:---|
-| [🚀 **Dual-MCU-Rocket-Ignition-System**](https://github.com/Debasish-Nayak-556/Dual-MCU-Rocket-Ignition-System-Secure-Launch-Control-) | Secure dual-MCU embedded rocket launch control system | C · Arduino · Embedded Systems |
-| [👁️ **VisionAttend-4.0**](https://github.com/Debasish-Nayak-556/VisionAttend-4.0-) | AI-powered face recognition based attendance system | Python · OpenCV · AI/ML |
-| [📄 **AI-Resume-Analyzer**](https://github.com/Debasish-Nayak-556/AI-Resume-Analyzer) | Smart resume parsing, analysis & scoring with AI | Python · NLP · AI |
-| [🦠 **neurovirus-scanner**](https://github.com/Debasish-Nayak-556/neurovirus-scanner) | AI-powered malware & virus detection engine | Python · ML · Cybersecurity |
+| [🚀 **Dual-MCU-Rocket-Ignition-System**](https://github.com/Debasish-Nayak-656/Dual-MCU-Rocket-Ignition-System-Secure-Launch-Control-) | Secure dual-MCU embedded rocket launch control system | C · Arduino · Embedded Systems |
+| [👁️ **VisionAttend-4.0**](https://github.com/Debasish-Nayak-656/VisionAttend-4.0-) | AI-powered face recognition based attendance system | Python · OpenCV · AI/ML |
+| [📄 **AI-Resume-Analyzer**](https://github.com/Debasish-Nayak-656/AI-Resume-Analyzer) | Smart resume parsing, analysis & scoring with AI | Python · NLP · AI |
+| [🦠 **neurovirus-scanner**](https://github.com/Debasish-Nayak-656/neurovirus-scanner) | AI-powered malware & virus detection engine | Python · ML · Cybersecurity |
 
 </div>
 
@@ -156,9 +156,9 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/snake-output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/snake-output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/snake-output/github-snake-dark.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/snake-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/snake-output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/snake-output/github-snake-dark.svg" width="90%"/>
 </picture>
 </div>
 
@@ -167,7 +167,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Debasish-Nayak-556&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
+  <img src="https://github-trophies.vercel.app/?username=Debasish-Nayak-656&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="95%"/>
 </div>
 
 ---
