@@ -154,14 +154,14 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/snake-output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/snake-output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/snake-output/github-snake-dark.svg" width="90%"/>
-</picture>
-</div>
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/output/github-snake-dark.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/output/github-snake.svg">
+</picture>
 ---
 
 ## 🏆 GitHub Trophies
