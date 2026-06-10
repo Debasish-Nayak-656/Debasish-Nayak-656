@@ -107,7 +107,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Debasish-Nayak-656&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=00ff41" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Debasish-Nayak-556&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=00ff41" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Debasish-Nayak-656&theme=chartreuse-dark&hide_border=true" />
 </div>
 
