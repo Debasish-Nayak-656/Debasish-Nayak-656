@@ -98,7 +98,7 @@
 🦠 NeuroVirus Scanner       ██████████████  100%  - AI-Powered Malware Detection Engine
 🚀 Dual-MCU Rocket System   ██████████████  100%  - Secure Embedded Launch Control
 👁️ VisionAttend 4.0         ██████████████  100%  - AI Face Recognition Attendance System
-📄 AI Resume Analyzer       ██████████████  100%  - Smart Resume Parsing & Scoring Tool
+🛡️ NetSentinel-X            ██████████████  100%  - Real-Time Network Intrusion Detection System
 🔐 Next Security Project    ░░░░░░░░░░░░░░    0%  - Coming Soon...
 ```
 
