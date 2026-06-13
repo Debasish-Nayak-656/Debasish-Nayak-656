@@ -142,10 +142,10 @@
 
 | 📦 Repository | 📝 Description | 🛠️ Tech Stack |
 |:---|:---|:---|
-| [🚀 **Dual-MCU-Rocket-Ignition-System**](https://github.com/Debasish-Nayak-656/Dual-MCU-Rocket-Ignition-System-Secure-Launch-Control-) | Secure dual-MCU embedded rocket launch control system | C · Arduino · Embedded Systems |
-| [👁️ **VisionAttend-4.0**](https://github.com/Debasish-Nayak-656/VisionAttend-4.0-) | AI-powered face recognition based attendance system | Python · OpenCV · AI/ML |
-| [📄 **AI-Resume-Analyzer**](https://github.com/Debasish-Nayak-656/AI-Resume-Analyzer) | Smart resume parsing, analysis & scoring with AI | Python · NLP · AI |
-| [🦠 **neurovirus-scanner**](https://github.com/Debasish-Nayak-656/neurovirus-scanner) | AI-powered malware & virus detection engine | Python · ML · Cybersecurity |
+| [🚀 **Dual-MCU-Rocket-Ignition-System**](https://github.com/Debasish-Nayak-656/Stellar-Ignition-System)) | Secure dual-MCU embedded rocket launch control system | C · Arduino · Embedded Systems |
+| [👁️ **VisionAttend-4.0**](https://github.com/Debasish-Nayak-656/VisionAttend-4.0) | AI-powered face recognition based attendance system | Python · OpenCV · AI/ML |
+| [🛡️ **NetSentinel-X**](https://github.com/Debasish-Nayak-656/NetSentinel-X) |Real-time network threat detection and security monitoring system.|⚙️ Python • Scapy • Wireshark • Splunk • ELK Stack (Elasticsearch & Kibana) • Pytest • MITRE ATT&CK • CSV/JSON Logging • Network Security Analytics 🚀|
+| [🦠 **neurovirus-scanner**](https://github.com/Debasish-Nayak-656/-Neurovirus-Scanner) | AI-powered malware & virus detection engine | Python · ML · Cybersecurity |
 
 </div>
 
