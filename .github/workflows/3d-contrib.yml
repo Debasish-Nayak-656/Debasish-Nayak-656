@@ -17,7 +17,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Debasish-Nayak-556
+          USERNAME: Debasish-Nayak-656
 
       - name: Push to 3d-output branch
         uses: crazy-max/ghaction-github-pages@v3
