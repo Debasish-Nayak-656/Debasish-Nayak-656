@@ -130,7 +130,7 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-656/3d-output/profile-night-green.svg" alt="Night Green" width="90%" />
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-656/Debasish-Nayak-656/3d-output/profile-night-green.svg" alt="Night Green" width="90%" />
 
 
 </div>
