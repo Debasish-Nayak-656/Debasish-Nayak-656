@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%94%90+Future+Cybersecurity+Engineer;%F0%9F%92%BB+Student+%40+DRIEMS+Polytechnic;%F0%9F%A6%A0+Building+Security+Tools+%26+Systems;%F0%9F%9A%80+Hacking+for+Good+%E2%80%94+Ethically!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=%F0%9F%94%90+Future+Cybersecurity+Engineer;%F0%9F%92%BB+Student+%40+DRIEMS+Polytechnic+Autonomous;%F0%9F%A6%A0+Building+Security+Tools+%26+Systems;%F0%9F%9A%80+Hacking+for+Good+%E2%80%94+Ethically!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@
   Name    : Debasish Nayak
   Role    : Cybersecurity Enthusiast
   Goal    : Future Cybersecurity Engineer
-  College : DRIEMS Polytechnic
+  College : DRIEMS Polytechnic Autonomous
   Focus   :
     - Ethical Hacking & Penetration Testing
     - Network Security & Threat Analysis
